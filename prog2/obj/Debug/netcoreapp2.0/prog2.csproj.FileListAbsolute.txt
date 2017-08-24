@@ -1,0 +1,10 @@
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/bin/Debug/netcoreapp2.0/prog2.deps.json
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/bin/Debug/netcoreapp2.0/prog2.runtimeconfig.json
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/bin/Debug/netcoreapp2.0/prog2.runtimeconfig.dev.json
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/bin/Debug/netcoreapp2.0/prog2.dll
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/bin/Debug/netcoreapp2.0/prog2.pdb
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/obj/Debug/netcoreapp2.0/prog2.csproj.CoreCompileInputs.cache
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/obj/Debug/netcoreapp2.0/prog2.AssemblyInfoInputs.cache
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/obj/Debug/netcoreapp2.0/prog2.AssemblyInfo.cs
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/obj/Debug/netcoreapp2.0/prog2.dll
+/mnt/docs/dev/aulas/tecci/atividade1/prog2/obj/Debug/netcoreapp2.0/prog2.pdb
